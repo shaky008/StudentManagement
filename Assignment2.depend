@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698822618 source:c:\users\sshak\onedrive\desktop\assignment\fall 2023\comp 2131\assignments\assignment2\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
